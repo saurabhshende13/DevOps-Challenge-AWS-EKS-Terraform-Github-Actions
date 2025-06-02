@@ -123,7 +123,7 @@ You can now access your app using your domain name.
    * `AWS_REGION`
    * `DOCKERHUB_USERNAME`
    * `DOCKERHUB_TOKEN`
-   * `EKS_CLUSTE_NAME`
+   * `EKS_CLUSTER_NAME`
 
 ![step7](steps/step7a.png)
 
