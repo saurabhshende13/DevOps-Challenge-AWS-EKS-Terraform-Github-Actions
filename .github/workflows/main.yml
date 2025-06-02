@@ -1,12 +1,12 @@
-name: Build & Deploy Flask App to EKS
+name: Build & Deploy Simple Microservice App to EKS
 
 on:
   push:
     branches:
-      - main  # or any branch you want
+      - main
 
 env:
-  IMAGE_NAME: flask-iptime
+  IMAGE_NAME: simple-microservice
   DOCKER_REGISTRY: docker.io
 
 jobs:
